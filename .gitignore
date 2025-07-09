@@ -1,0 +1,29 @@
+# Archivos temporales y backups de MATLAB
+*.asv
+*.m~
+*.fig~
+*.mdl~
+*.mat
+*.mex*
+*.autosave
+*.mlappinstall
+*.mlpkginstall
+
+# Cachés
+slprj/
+sccprj/
+simulink_cache/
+*.slxc
+*.log
+
+# Archivos generados por Arduino IDE
+*.hex
+*.elf
+*.bin
+*.eep
+*.bak
+*.dmp
+*.dep
+
+# Carpeta de compilación
+build/
